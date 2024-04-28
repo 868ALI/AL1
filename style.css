@@ -173,7 +173,7 @@ footer .right .box {
     margin: 15px 15px 0;
 }
 footer .right .insta {
-    background: url(images/main/INSTAGRAM.png) no-repeat;
+    background: url("images/main/INSTAGRAM.png") no-repeat;
     background-size: cover;
 }
 footer .right .insta:hover {
